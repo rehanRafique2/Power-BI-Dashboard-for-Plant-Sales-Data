@@ -1,7 +1,7 @@
 # Unlocking Business Insights: Creating a Power BI Dashboard for Plant Sales Data
 ![Dashboard](https://github.com/user-attachments/assets/c1fd00d6-a02d-472a-847a-8df92ad4c0a9)
 
-In the era of data-driven decision-making, the ability to visualize and analyze data effectively can provide businesses with a significant edge. In this blog post, I’ll walk you through the process of building a Power BI dashboard that analyzes plant sales data, from setting up the data model to extracting actionable insights. This project is a part of my portfolio, showcasing my skills in data visualization and analysis.
+In the era of data-driven decision-making, the ability to visualize and analyze data effectively can provide businesses with a significant edge. In this Project, I’ll walk you through the process of building a Power BI dashboard that analyzes plant sales data, from setting up the data model to extracting actionable insights. This project is a part of my portfolio, showcasing my skills in data visualization and analysis.
 
 ## Understanding the Dataset
 ### Data Sources and Preparation
